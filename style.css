@@ -1,0 +1,10 @@
+body {
+    
+    color: white;
+    margin: 0px;
+    background-image: linear-gradient(rgb(23, 40, 59) 50%, blue);
+}
+div {
+    background-color: black;
+}
+
